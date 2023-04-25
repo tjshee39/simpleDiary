@@ -1,4 +1,4 @@
-# simpleDiary
+# simpleDiary📒
 ### 2021-1 start-up project 안드로이드 일기장
 
 ### ☝ 날짜 선택
